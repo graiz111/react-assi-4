@@ -1,0 +1,23 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    padding-right: 10px;
+    height: 70px;
+    align-items: center;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000; 
+    background-color: #282c34;
+    color: aqua;
+}
+.hname{
+   
+    padding-left: 100px;
+}
+.nav{
+    list-style-type: none;
+    display: flex;
+    gap: 15px;
+    
+}
